@@ -1,0 +1,119 @@
+﻿justice,justiceName,Name,Start,End,image
+1,JJay,John Jay,1789-10-19,1795-06-29,https://api.oyez.org/sites/default/files/images/people/john_jay/john_jay.thumb.png
+2,JRutledge1,John Rutledge,1790-02-15,1791-03-05,https://api.oyez.org/sites/default/files/images/people/john_rutledge/john_rutledge.thumb.png
+3,WCushing,William Cushing,1790-02-02,1810-09-13,https://api.oyez.org/sites/default/files/images/people/william_cushing/william_cushing.thumb.png
+4,JWilson,James Wilson,1789-10-05,1798-08-21,https://api.oyez.org/sites/default/files/images/people/james_wilson/james_wilson.thumb.png
+5,JBlair,"John Blair, Jr.",1790-02-02,1796-01-27,https://api.oyez.org/sites/default/files/images/people/john_blair/john_blair.thumb.png
+6,JIredell,James Iredell,1790-05-12,1799-10-20,https://api.oyez.org/sites/default/files/images/people/james_iredell/james_iredell.thumb.png
+7,TJohnson,Thomas Johnson,1791-09-19,1793-02-22,https://api.oyez.org/sites/default/files/images/people/thomas_johnson/thomas_johnson.thumb.png
+8,WPaterson,William Paterson,1793-03-11,1806-09-09,https://api.oyez.org/sites/default/files/images/people/william_paterson/william_paterson.thumb.png
+9,JRutledge2,John Rutledge,1795-08-12,1795-12-15,https://api.oyez.org/sites/default/files/images/people/john_rutledge/john_rutledge.thumb.png
+10,SChase,Samuel Chase,1796-02-04,1811-06-19,https://api.oyez.org/sites/default/files/images/people/samuel_chase/samuel_chase.thumb.png
+11,OEllsworth,Oliver Ellsworth,1796-03-08,1800-12-15,https://api.oyez.org/sites/default/files/images/people/oliver_ellsworth/oliver_ellsworth.thumb.png
+12,BWashington,Bushrod Washington,1798-11-09,1829-11-26,https://api.oyez.org/sites/default/files/images/people/bushrod_washington/bushrod_washington.thumb.png
+13,AMoore,Alfred Moore,1800-04-21,1804-01-26,https://api.oyez.org/sites/default/files/images/people/alfred_moore/alfred_moore.thumb.png
+14,JMarshall,John Marshall,1801-02-04,1835-07-06,https://api.oyez.org/sites/default/files/images/people/john_marshall/john_marshall.thumb.png
+15,WJohnson,William Johnson,1804-05-07,1834-08-04,https://api.oyez.org/sites/default/files/images/people/william_johnson/william_johnson.thumb.png
+16,HBLivingston,Henry Brockholst Livingston,1807-01-20,1823-03-18,https://api.oyez.org/sites/default/files/images/people/brockholst_livingston/brockholst_livingston.thumb.png
+17,TTodd,Thomas Todd,1807-05-04,1826-02-07,https://api.oyez.org/sites/default/files/images/people/thomas_todd/thomas_todd.thumb.png
+18,GDuvall,Gabriel Duvall,1811-11-23,1835-01-14,https://api.oyez.org/sites/default/files/images/people/gabriel_duvall/gabriel_duvall.thumb.png
+19,JStory,Joseph Story,1812-02-03,1845-09-10,https://api.oyez.org/sites/default/files/images/people/joseph_story/joseph_story.thumb.png
+20,SThompson,Smith Thompson,1823-09-01,1843-12-18,https://api.oyez.org/sites/default/files/images/people/smith_thompson/smith_thompson.thumb.png
+21,RTrimble,Robert Trimble,1826-06-16,1828-08-25,https://api.oyez.org/sites/default/files/images/people/robert_trimble/robert_trimble.thumb.png
+22,JMcLean,John McLean,1830-01-11,1861-04-04,https://api.oyez.org/sites/default/files/images/people/john_mclean/john_mclean.thumb.png
+23,HBaldwin,Henry Baldwin,1830-01-18,1844-04-21,https://api.oyez.org/sites/default/files/images/people/henry_baldwin/henry_baldwin.thumb.png
+24,JMWayne,James M. Wayne,1835-01-14,1867-07-05,https://api.oyez.org/sites/default/files/images/people/james_m_wayne/james_m_wayne.thumb.png
+25,RBTaney,Roger B. Taney,1836-03-28,1864-10-12,https://api.oyez.org/sites/default/files/images/people/roger_b_taney/roger_b_taney.thumb.png
+26,PPBarbour,Philip P. Barbour,1836-05-12,1841-02-25,https://api.oyez.org/sites/default/files/images/people/philip_p_barbour/philip_p_barbour.thumb.png
+27,JCatron,John Catron,1837-05-01,1865-05-30,https://api.oyez.org/sites/default/files/images/people/john_catron/john_catron.thumb.png
+28,JMcKinley,John McKinley,1837-04-22,1852-07-19,https://api.oyez.org/sites/default/files/images/people/john_mckinley/john_mckinley.thumb.png
+29,PVDaniel,Peter V. Daniel,1842-01-10,1860-05-31,https://api.oyez.org/sites/default/files/images/people/peter_v_daniel/peter_v_daniel.thumb.png
+30,SNelson,Samuel Nelson,1845-02-27,1872-11-28,https://api.oyez.org/sites/default/files/images/people/samuel_nelson/samuel_nelson.thumb.png
+31,LWoodbury,Levi Woodbury,1845-09-23,1851-09-04,https://api.oyez.org/sites/default/files/images/people/levi_woodbury/levi_woodbury.thumb.png
+32,RCGrier,Robert C. Grier,1846-08-10,1870-01-31,https://api.oyez.org/sites/default/files/images/people/robert_c_grier/robert_c_grier.thumb.png
+33,BRCurtis,Benjamin R. Curtis,1851-10-10,1857-09-30,https://api.oyez.org/sites/default/files/images/people/benjamin_r_curtis/benjamin_r_curtis.thumb.png
+34,JACampbell,John A. Campbell,1853-04-11,1861-04-30,https://api.oyez.org/sites/default/files/images/people/john_a_campbell/john_a_campbell.thumb.png
+35,NClifford,Nathan Clifford,1858-01-21,1881-07-25,https://api.oyez.org/sites/default/files/images/people/nathan_clifford/nathan_clifford.thumb.png
+36,NHSwayne,Noah Swayne,1862-01-27,1881-01-24,https://api.oyez.org/sites/default/files/images/people/noah_swayne/noah_swayne.thumb.png
+37,SFMiller,Samuel F. Miller,1862-07-21,1890-10-13,https://api.oyez.org/sites/default/files/images/people/samuel_f_miller/samuel_f_miller.thumb.png
+38,DDavis,David Davis,1862-10-17,1877-03-04,https://api.oyez.org/sites/default/files/images/people/david_davis/david_davis.thumb.png
+39,SJField,Stephen J. Field,1863-05-20,1897-12-01,https://api.oyez.org/sites/default/files/images/people/stephen_j_field/stephen_j_field.thumb.png
+40,SPChase,Salmon P. Chase,1864-12-15,1873-05-07,https://api.oyez.org/sites/default/files/images/people/salmon_p_chase/salmon_p_chase.thumb.png
+41,WStrong,William Strong,1870-03-14,1880-12-14,https://api.oyez.org/sites/default/files/images/people/william_strong/william_strong.thumb.png
+42,JPBradley,Joseph P. Bradley,1870-03-21,1892-01-22,https://api.oyez.org/sites/default/files/images/people/joseph_p_bradley/joseph_p_bradley.thumb.png
+43,WHunt,Ward Hunt,1873-01-09,1882-01-27,https://api.oyez.org/sites/default/files/images/people/ward_hunt/ward_hunt.thumb.png
+44,MRWaite,Morrison R. Waite,1874-03-04,1888-04-03,https://api.oyez.org/sites/default/files/images/people/morrison_r_waite/morrison_r_waite.thumb.png
+45,JHarlan1,John M. Harlan,1877-12-10,10/14/1911,https://api.oyez.org/sites/default/files/images/people/john_m_harlan/john_m_harlan.thumb.png
+46,WBWoods,William B. Woods,1881-01-05,1887-05-14,https://api.oyez.org/sites/default/files/images/people/william_b_woods/william_b_woods.thumb.png
+47,SMatthews,Stanley Matthews,1881-05-17,1889-03-22,https://api.oyez.org/sites/default/files/images/people/stanley_matthews/stanley_matthews.thumb.png
+48,HGray,Horace Gray,1882-01-09,9/15/1902,https://api.oyez.org/sites/default/files/images/people/horace_gray/horace_gray.thumb.png
+49,SBlatchford,Samuel Blatchford,1882-04-03,1893-07-07,https://api.oyez.org/sites/default/files/images/people/samuel_blatchford/samuel_blatchford.thumb.png
+50,LQLamar,Lucius Q.C. Lamar,1888-01-18,1893-01-23,https://api.oyez.org/sites/default/files/images/people/lucius_qc_lamar/lucius_qc_lamar.thumb.png
+51,MWFuller,Melville W. Fuller,1888-10-08,7/4/1910,https://api.oyez.org/sites/default/files/images/people/melville_w_fuller/melville_w_fuller.thumb.png
+52,DJBrewer,David J. Brewer,1890-01-06,3/28/1910,https://api.oyez.org/sites/default/files/images/people/david_j_brewer/david_j_brewer.thumb.png
+53,HBBrown,Henry B. Brown,1891-01-05,5/28/1906,https://api.oyez.org/sites/default/files/images/people/henry_b_brown/henry_b_brown.thumb.png
+54,GShiras,"George Shiras, Jr.",1892-10-10,2/23/1903,https://api.oyez.org/sites/default/files/images/people/george_shiras_jr/george_shiras_jr.thumb.png
+55,HEJackson,Howell E. Jackson,1893-03-04,1895-08-08,https://api.oyez.org/sites/default/files/images/people/howell_e_jackson/howell_e_jackson.thumb.png
+56,EDEWhite,Edward D. White,1894-03-12,5/19/1921,https://api.oyez.org/sites/default/files/images/people/edward_d_white/edward_d_white.thumb.png
+57,RWPeckham,Rufus Peckham,1896-01-06,10/24/1909,https://api.oyez.org/sites/default/files/images/people/rufus_peckham/rufus_peckham.thumb.png
+58,JMcKenna,Joseph McKenna,1898-01-26,1/5/1925,https://api.oyez.org/sites/default/files/images/people/joseph_mckenna/joseph_mckenna.thumb.png
+59,OWHolmes,"Oliver W. Holmes, Jr.",8/11/1902,1/12/1932,https://api.oyez.org/sites/default/files/images/people/oliver_w_holmes_jr/oliver_w_holmes_jr.thumb.png
+60,WRDay,William R. Day,3/2/1903,11/13/1922,https://api.oyez.org/sites/default/files/images/people/william_r_day/william_r_day.thumb.png
+61,WHMoody,William H. Moody,12/17/1906,11/20/1910,https://api.oyez.org/sites/default/files/images/people/william_h_moody/william_h_moody.thumb.png
+62,HHLurton,Horace H. Lurton,1/3/1910,7/12/1914,https://api.oyez.org/sites/default/files/images/people/horace_h_lurton/horace_h_lurton.thumb.png
+63,CEHughes1,Charles E. Hughes,10/10/1910,6/10/1916,https://api.oyez.org/sites/default/files/images/people/charles_e_hughes/charles_e_hughes.thumb.png
+64,WVanDevanter,Willis Van Devanter,1/3/1911,6/2/1937,https://api.oyez.org/sites/default/files/images/people/willis_van_devanter/willis_van_devanter.thumb.png
+65,JRLamar,Joseph R. Lamar,1/3/1911,1/2/1916,https://api.oyez.org/sites/default/files/images/people/joseph_r_lamar/joseph_r_lamar.thumb.png
+66,MPitney,Mahlon Pitney,3/18/1912,12/31/1922,https://api.oyez.org/sites/default/files/images/people/mahlon_pitney/mahlon_pitney.thumb.png
+67,JCMcReynolds,James C. McReynolds,10/12/1914,1/31/1941,https://api.oyez.org/sites/default/files/images/people/james_c_mcreynolds/james_c_mcreynolds.thumb.png
+68,LDBrandeis,Louis D. Brandeis,6/5/1916,2/13/1939,https://api.oyez.org/sites/default/files/images/people/louis_d_brandeis/louis_d_brandeis.thumb.png
+69,JHClarke,John H. Clarke,10/9/1916,9/18/1922,https://api.oyez.org/sites/default/files/images/people/john_h_clarke/john_h_clarke.thumb.png
+70,WHTaft,William Howard Taft,7/11/1921,2/3/1930,https://api.oyez.org/sites/default/files/images/people/william_howard_taft/william_howard_taft.thumb.png
+71,GSutherland,George Sutherland,10/2/1922,1/17/1938,https://api.oyez.org/sites/default/files/images/people/george_sutherland/george_sutherland.thumb_0.png
+72,PButler,Pierce Butler,1/2/1923,11/16/1939,https://api.oyez.org/sites/default/files/images/people/pierce_butler/pierce_butler.thumb.png
+73,ETSanford,Edward T. Sanford,2/19/1923,3/8/1930,https://api.oyez.org/sites/default/files/images/people/edward_t_sanford/edward_t_sanford.thumb.png
+74,HFStone,Harlan Fiske Stone,3/2/1925,4/22/1946,https://api.oyez.org/sites/default/files/images/people/harlan_fiske_stone/harlan_fiske_stone.thumb.png
+75,CEHughes2,Charles E. Hughes,2/24/1930,7/1/1941,https://api.oyez.org/sites/default/files/images/people/charles_e_hughes/charles_e_hughes.thumb.png
+76,OJRoberts,Owen J. Roberts,6/2/1930,7/31/1945,https://api.oyez.org/sites/default/files/images/people/owen_j_roberts/owen_j_roberts.thumb.png
+77,BNCardozo,Benjamin N. Cardozo,3/14/1932,7/9/1938,https://api.oyez.org/sites/default/files/images/people/benjamin_n_cardozo/benjamin_n_cardozo.thumb.png
+78,HLBlack,Hugo L. Black,8/19/1937,9/17/1971,https://api.oyez.org/sites/default/files/images/people/hugo_l_black/hugo_l_black.thumb.png
+79,SFReed,Stanley Reed,1/31/1938,2/25/1957,https://api.oyez.org/sites/default/files/images/people/stanley_reed/stanley_reed.thumb_3.png
+80,FFrankfurter,Felix Frankfurter,1/30/1939,8/28/1962,https://api.oyez.org/sites/default/files/images/people/felix_frankfurter/felix_frankfurter.thumb.png
+81,WODouglas,William O. Douglas,4/17/1939,11/12/1975,https://api.oyez.org/sites/default/files/images/people/william_o_douglas/william_o_douglas.thumb.png
+82,FMurphy,Frank Murphy,2/5/1940,7/19/1949,https://api.oyez.org/sites/default/files/images/people/frank_murphy/frank_murphy.thumb.png
+83,JFByrnes,James F. Byrnes,7/8/1941,10/3/1942,https://api.oyez.org/sites/default/files/images/people/james_f_byrnes/james_f_byrnes.thumb.png
+84,RHJackson,Robert H. Jackson,7/11/1941,10/9/1954,https://api.oyez.org/sites/default/files/images/people/robert_h_jackson/robert_h_jackson.thumb.png
+85,WBRutledge,Wiley B. Rutledge,2/15/1943,9/10/1949,https://api.oyez.org/sites/default/files/images/people/wiley_b_rutledge/wiley_b_rutledge.thumb_1.png
+86,HHBurton,Harold Burton,10/1/1945,10/13/1958,https://api.oyez.org/sites/default/files/images/people/harold_burton/harold_burton.thumb.png
+87,FMVinson,Fred M. Vinson,6/24/1946,9/8/1953,https://api.oyez.org/sites/default/files/images/people/fred_m_vinson/fred_m_vinson.thumb.png
+88,TCClark,Tom C. Clark,8/24/1949,6/12/1967,https://api.oyez.org/sites/default/files/images/people/tom_c_clark/tom_c_clark.thumb.png
+89,SMinton,Sherman Minton,10/12/1949,10/15/1956,https://api.oyez.org/sites/default/files/images/people/sherman_minton/sherman_minton.thumb.png
+90,EWarren,Earl Warren,10/5/1953,6/23/1969,https://api.oyez.org/sites/default/files/images/people/earl_warren/earl_warren.thumb.png
+91,JHarlan2,John M. Harlan II,3/28/1955,9/23/1971,https://api.oyez.org/sites/default/files/images/people/john_m_harlan2/john_m_harlan2.thumb.png
+92,WJBrennan,"William J. Brennan, Jr.",10/16/1956,7/20/1990,https://api.oyez.org/sites/default/files/images/people/william_j_brennan_jr/william_j_brennan_jr.thumb.png
+93,CEWhittaker,Charles E. Whittaker,3/25/1957,3/31/1962,https://api.oyez.org/sites/default/files/images/people/charles_e_whittaker/charles_e_whittaker.thumb.png
+94,PStewart,Potter Stewart,10/14/1958,7/3/1981,https://api.oyez.org/sites/default/files/images/people/potter_stewart/potter_stewart.thumb.png
+95,BRWhite,Byron R. White,4/16/1962,6/28/1993,https://api.oyez.org/sites/default/files/images/people/byron_r_white/byron_r_white.thumb.png
+96,AJGoldberg,Arthur J. Goldberg,10/1/1962,7/25/1965,https://api.oyez.org/sites/default/files/images/people/arthur_j_goldberg/arthur_j_goldberg.thumb.png
+97,AFortas,Abe Fortas,10/4/1965,5/14/1969,https://api.oyez.org/sites/default/files/images/people/abe_fortas/abe_fortas.thumb.png
+98,TMarshall,Thurgood Marshall,10/2/1967,10/1/1991,https://api.oyez.org/sites/default/files/images/people/thurgood_marshall/thurgood_marshall.thumb.png
+99,WEBurger,Warren E. Burger,6/23/1969,9/26/1986,https://api.oyez.org/sites/default/files/images/people/warren_e_burger/warren_e_burger.thumb.png
+100,HABlackmun,Harry A. Blackmun,6/9/1970,8/3/1994,https://api.oyez.org/sites/default/files/images/people/harry_a_blackmun/harry_a_blackmun.thumb.png
+101,LFPowell,"Lewis F. Powell, Jr.",1/7/1972,6/26/1987,https://api.oyez.org/sites/default/files/images/people/lewis_f_powell_jr/lewis_f_powell_jr.thumb.png
+102,WHRehnquist,William H. Rehnquist,1/7/1972,9/3/2005,https://api.oyez.org/sites/default/files/images/people/william_h_rehnquist/william_h_rehnquist.thumb.png
+103,JPStevens,John Paul Stevens,12/19/1975,6/29/2010,https://api.oyez.org/sites/default/files/images/people/john_paul_stevens/john_paul_stevens.thumb.png
+104,SDOConnor,Sandra Day O'Connor,9/25/1981,1/31/2006,https://api.oyez.org/sites/default/files/images/people/sandra_day_oconnor/sandra_day_oconnor.thumb.png
+105,AScalia,Antonin Scalia,9/26/1986,2/13/2016,https://api.oyez.org/sites/default/files/images/people/antonin_scalia/antonin_scalia.thumb.png
+106,AMKennedy,Anthony M. Kennedy,2/18/1988,7/31/2018,https://api.oyez.org/sites/default/files/images/people/anthony_m_kennedy/anthony_m_kennedy.thumb.png
+107,DHSouter,David H. Souter,10/9/1990,6/29/2009,https://api.oyez.org/sites/default/files/images/people/david_h_souter/david_h_souter.thumb.png
+108,CThomas,Clarence Thomas,10/23/1991,,https://api.oyez.org/sites/default/files/images/people/clarence_thomas/clarence_thomas.thumb.png
+109,RBGinsburg,Ruth Bader Ginsburg,8/10/1993,9/18/2020,https://api.oyez.org/sites/default/files/images/people/ruth_bader_ginsburg/ruth_bader_ginsburg.thumb.png
+110,SGBreyer,Stephen G. Breyer,8/3/1994,6/30/2022,https://api.oyez.org/sites/default/files/images/people/stephen_g_breyer/stephen_g_breyer.thumb.png
+111,JGRoberts,"John G. Roberts, Jr.",9/29/2005,,https://api.oyez.org/sites/default/files/images/people/john_g_roberts_jr/john_g_roberts_jr.thumb.png
+112,SAAlito,"Samuel A. Alito, Jr.",1/31/2006,,https://api.oyez.org/sites/default/files/images/people/samuel_alito_jr/samuel_alito_jr.thumb.png
+113,SSotomayor,Sonia Sotomayor,8/8/2009,,https://api.oyez.org/sites/default/files/images/people/sonia_sotomayor/sonia_sotomayor.thumb.png
+114,EKagan,Elena Kagan,8/7/2010,,https://api.oyez.org/sites/default/files/images/people/elena_kagan/elena_kagan.thumb.png
+115,NMGorsuch,Neil Gorsuch,4/8/2017,,https://api.oyez.org/sites/default/files/filefield_paths/neil_gorsuch.thumb__0.png
+116,BMKavanaugh,Brett M. Kavanaugh,10/6/2018,,https://api.oyez.org/sites/default/files/filefield_paths/Kavanaugh-thumb.png
+117,ACBarrett,Amy Coney Barrett,10/27/2020,,https://api.oyez.org/sites/default/files/filefield_paths/barret-thumb.png
+118,KBJackson,Ketanji Brown Jackson,6/30/2022,,https://api.oyez.org/sites/default/files/filefield_paths/thumbnail_ketanji_brown_jackson.png
